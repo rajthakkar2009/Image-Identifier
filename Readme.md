@@ -107,8 +107,6 @@ uvicorn api.main:app --reload
 
 ## Results
 
-> *(Add your actual accuracy here)*
-
 * Training Accuracy: **99%**
 * Validation Accuracy: **98%**
 
@@ -129,7 +127,7 @@ Contributions are welcome! Feel free to fork the repo and submit a PR.
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Raj Thakkar**
 📍 Mumbai, India
