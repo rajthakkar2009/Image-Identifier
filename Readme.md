@@ -11,15 +11,11 @@ Built using **TensorFlow (MobileNetV2)** and deployed with an interactive **Stre
 
 #### Upload Interface
 
-```
 ![Upload UI](assets/Upload.png)
-```
 
 #### Prediction Output
 
-```
 ![Prediction Result](assets/Prediction_Result.png)
-```
 
 ---
 
